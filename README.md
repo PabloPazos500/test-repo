@@ -1,1 +1,1 @@
-# README del repositorioInformación del proyecto
+# README del repo
